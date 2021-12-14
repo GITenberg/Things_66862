@@ -1,0 +1,31 @@
+_repo: Things_66862
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Alice Duer
+    alias: Duer, Alice
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '3939'
+    url: http://www.gutenberg.org/2009/agents/3939
+    wikipedia: https://en.wikipedia.org/wiki/Alice_Duer_Miller
+description: ''
+gutenberg_issued: '2021-12-01'
+identifiers:
+  gutenberg: '66862'
+language: en
+pgterms:marc904: https://archive.org/details/things00millgoog/page/n9/mode/2up
+pgterms:marc905: 20211007044105miller
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Steve Mattern, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Charles Scribner's Sons,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Things
+url: http://www.gutenberg.org/ebooks/66862
