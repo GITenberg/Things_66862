@@ -1,5 +1,8 @@
 _repo: Things_66862
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66862-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, Alice Duer
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3939
     wikipedia: https://en.wikipedia.org/wiki/Alice_Duer_Miller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66862#Things
 gutenberg_issued: '2021-12-01'
 identifiers:
   gutenberg: '66862'
